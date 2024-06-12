@@ -1,7 +1,7 @@
 
 # FITS File Conversion to Erg Units
 
-This repository contains a Python script to convert the data units in a FITS file from MJy/sr to erg/cm²/sr/s/Hz using in the FITS header. The script also updates the BUNIT header in the FITS file to reflect the new units.
+This repository contains a Python script to convert the data units in a FITS file from MJy/sr to erg/cm²/sr/s/Hz reading the unit information in the FITS header. The script also updates the BUNIT header in the FITS file to reflect the new units.
 
 ## Requirements
 
