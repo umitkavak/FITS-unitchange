@@ -113,7 +113,3 @@ Ensure that the FITS file `ngc7538_160micron.fits` is in the same directory as t
 ```sh
 python convert_to_erg.py
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
